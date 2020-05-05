@@ -8,7 +8,7 @@ region:
 ---
 
 
-## Welcome
+## OWASP Ahmedabad
 Include some information here about your chapter
 
 ## Participation
