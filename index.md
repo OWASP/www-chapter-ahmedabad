@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Ahmedabad
 tags: example-tag
-region: 
+region: Asia
 
 ---
 
