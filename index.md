@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Ahmedabad
-tags: example-tag
+tags: Leaders
 region: Asia
 
 ---
