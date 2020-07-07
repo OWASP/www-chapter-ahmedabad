@@ -3,7 +3,7 @@ title: Example
 layout:  null
 tab: true
 order: 1
-tags: Leaders
+#tags: Leaders
 tags: Meets
 ---
 
