@@ -14,6 +14,32 @@ OWASP Ahmedabd Chapter was founded in the mid of 2019 by a group of security ent
 ### Become a Presenter
 Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Ahmedabad Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail. [speaker agreement](/www-policy/speaker-agreement)
 
+### OWASP Ahmedabad
+
+1). 27 April 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+2). 19 May 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+3). 29 June 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+4). 20 July 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+5). 31 Aug 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+6). 21 Sep 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+7). 19 Oct 2019 : Block 6, L.D Engg Boys Hostel @ 10:00 AM
+
+8). 30 Nov 2019 : Block 6, L.D Engg Boys Hostel @ 11:00 AM
+
+9).  29 Dec 2019 : Sultan Ahmed Computer Center @ 11:00 AM
+
+10). 02 Feb 2020 : Sultan Ahmed Computer Center @ 11:00 AM
+
+11). 02 May 2020 : Jetsi (Virtual Meet) : 11:00 AM
+
+12). 20 June 2020 : Google Meet (Virtual Meet) : 11:00 AM
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
