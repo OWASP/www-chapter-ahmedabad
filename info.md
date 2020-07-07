@@ -1,6 +1,6 @@
 ### Social Links
 * [Meetup](#)
-* [Twitter](www.twitter.com/ahmowasp)
-* [Instagram](www.instagram.com/owaspahm)
+* [Twitter](https://www.twitter.com/ahmowasp)
+* [Instagram](https://www.instagram.com/owaspahm)
 
 
