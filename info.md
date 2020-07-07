@@ -1,7 +1,6 @@
-### Ahmedabad Information
-* Provide Group Information
-
 ### Social Links
 * [Meetup](#)
+* [Twitter](www.twitter.com/ahmowasp)
+* [Instagram](www.instagram.com/owaspahm)
 
 
