@@ -2,9 +2,9 @@
 title: Example
 layout:  null
 tab: true
-order: 1
-tags: Leaders
-tags: Meets
+order: 2
+tags: tab_example
+
 ---
 
 ## Previous Meetup Information
