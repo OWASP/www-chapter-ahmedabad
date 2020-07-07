@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Previous Meetup
 layout:  null
 tab: true
 order: 2
