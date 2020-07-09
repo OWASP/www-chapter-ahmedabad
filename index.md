@@ -35,7 +35,6 @@ Call For Speakers is open - if you would like to present a talk on Application S
 9).  29 Dec 2019 : Sultan Ahmed Computer Center @ 11:00 AM
 
 10). 02 Feb 2020 : Sultan Ahmed Computer Center @ 11:00 AM
-
 11). 02 May 2020 : Jetsi (Virtual Meet) @ 11:00 AM
 
 12). 20 June 2020 : Google Meet (Virtual Meet) @ 11:00 AM
