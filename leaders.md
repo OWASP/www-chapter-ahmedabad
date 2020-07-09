@@ -4,4 +4,4 @@
 ### Core Team
 * Vishal Purani
 * Vivek Sinha
-* Udit Chawda
+* Udit Chavda
