@@ -29,6 +29,10 @@ tags: tab_example
 
 10). 02 Feb 2020 : Sultan Ahmed Computer Center @ 11:00 AM
 
-11). 02 May 2020 : Jetsi (Virtual Meet) : 11:00 AM
+11). 02 May 2020 : Jetsi (Virtual Meet) @ 11:00 AM
 
-12). 20 June 2020 : Google Meet (Virtual Meet) : 11:00 AM 
+12). 20 June 2020 : Google Meet (Virtual Meet) @ 11:00 AM 
+
+## Next Meetup Information
+
+25 July 2020 : Google Meet (Virtual Meet) @ 11:00 AM
