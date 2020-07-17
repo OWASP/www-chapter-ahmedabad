@@ -40,6 +40,4 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 12). 20 June 2020 : Google Meet (Virtual Meet) @ 11:00 AM
 
-### OWASP Ahmedabad Next Meet-up
 
-25 July 2020 : Google Meet (Virtual Meet) @ 11:00 AM
