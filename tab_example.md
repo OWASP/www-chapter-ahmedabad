@@ -31,4 +31,4 @@ tags: tab_example
 
 11). 02 May 2020 : Jetsi (Virtual Meet) : 11:00 AM
 
-12). 20 June 2020 : Google Meet (Virtual Meet) : 11:00 AM at all.
+12). 20 June 2020 : Google Meet (Virtual Meet) : 11:00 AM 
