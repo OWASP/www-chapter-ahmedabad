@@ -1,9 +1,9 @@
 ### Volunteers
 #### Creative Innovation & Designing Team
-* Rutwa Panagar
-* Rushabh Makim
 * Harshil Sharma
+* Rushabh Makim
+* Rutwa Panagar
 #### Multimedia & Networking Team
-* Vidhi Panchal
-* Priyam Patel
 * Harsh Joshi
+* Priyam Patel
+* Vidhi Panchal
