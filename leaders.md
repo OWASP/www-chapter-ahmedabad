@@ -1,11 +1,11 @@
 ### Leaders
 * [Vismit Rakhecha](mailto:vismit.rakhecha@owasp.org)
-<hr></hr>
+
 ### Core Team
 * Vishal Purani
 * Vivek Sinha
 * Udit Chavda
-<hr></hr>
+
 ### Volunteers
 #### Creative Innovation & Designing Team
 * Harshil Sharma
