@@ -1,4 +1,4 @@
-### Volunteers
+### Volunteer Team
 #### Creative Innovation & Designing Team
 * Harshil Sharma
 * Rushabh Makim
