@@ -11,6 +11,7 @@
 * Harshil Sharma
 * Rushabh Makim
 * Rutwa Panagar
+
 #### Multimedia & Networking Team
 * Harsh Joshi
 * Priyam Patel
