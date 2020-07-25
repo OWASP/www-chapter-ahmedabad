@@ -39,8 +39,10 @@ tags: tab_example
 
 12.) 20 June 2020 : Google Meet (Virtual Meet) @ 11:00 AM 
 
+13.) 25 July 2020 : Google Meet (Virtual Meet) @ 11:00 AM
+
 ## Next Meetup Information
 
-25 July 2020 : Google Meet (Virtual Meet) @ 11:00 AM
+To be announced
 
 
