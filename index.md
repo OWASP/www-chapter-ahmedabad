@@ -5,6 +5,9 @@ title: OWASP Ahmedabad
 tags: Leaders
 region: Asia
 tags: tab_example
+meetup-group: OWASP-Ahmedabad-Chapter
+country: India
+postal-code: 
 
 ---
 ### OWASP Ahmedabad
