@@ -46,6 +46,6 @@ postal-code:
 
 ## Next Meetup Information
 
-To be announced
+We're coming on 29th August, 2020 on saturday at 11:00 AM IST.
 
 
