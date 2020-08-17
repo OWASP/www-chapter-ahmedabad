@@ -48,7 +48,7 @@ postal-code:
 
 We're coming up 29th August, 2020 on saturday at 11:00 AM IST. The Registration link is below; Hurry up! Limited seats are available,
 
-<link href="https://docs.google.com/forms/d/1u_GziZi6xy9qipD6Oi0evOi84-X7V1-r--9YhOQOEyM/closedform"></link>
+<a href="https://docs.google.com/forms/d/1u_GziZi6xy9qipD6Oi0evOi84-X7V1-r--9YhOQOEyM/closedform">Register Here</a>
 
 
 
