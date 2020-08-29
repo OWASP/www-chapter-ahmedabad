@@ -44,11 +44,10 @@ postal-code:
 
 13.) 25 July 2020 : Google Meet (Virtual Meet) @ 11:00 AM
 
+14.) 29 August 2020 : Google Meet (Virtual Meet) @ 11:00 AM
+
 ## Next Meetup Information
 
-We're coming up 29th August, 2020 on saturday at 11:00 AM IST. The Registration link is below; Hurry up! Limited seats are available,
-
-<a href="https://docs.google.com/forms/d/1u_GziZi6xy9qipD6Oi0evOi84-X7V1-r--9YhOQOEyM/closedform" target="__blank">Register Here</a>
-
+To be Announced soon. Stay Tuned with us.
 
 
