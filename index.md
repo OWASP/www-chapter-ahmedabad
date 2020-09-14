@@ -48,6 +48,6 @@ postal-code:
 
 ## Next Meetup Information
 
-To be Announced soon. Stay Tuned with us.
+We're coming on 26th September,2020 11:00 AM IST at Saturday. For more details stay tuned with us.
 
 
