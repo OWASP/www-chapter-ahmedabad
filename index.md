@@ -48,6 +48,7 @@ postal-code:
 
 ## Next Meetup Information
 
-We're coming on 26th September,2020 11:00 AM IST at Saturday. For more details stay tuned with us.
+We're coming on 26th September,2020 11:00 AM IST at Saturday. Regitration link is below:
+https://docs.google.com/forms/d/1u_GziZi6xy9qipD6Oi0evOi84-X7V1-r--9YhOQOEyM/closedform
 
 
