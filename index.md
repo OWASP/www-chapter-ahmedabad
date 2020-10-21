@@ -49,4 +49,6 @@ postal-code:
 15.) 26 September 2020 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-To be announced. For more details stay tuned with us on our social media pages.
+Shhhhh🤫 it's time of OWASPians! We're Coming on 31st October. Registration link is below, hurry up! Limited seats are available.
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSemokxawE1wqYjYtqxZOsHBpu7FU0Ycq0smEm20z6LETsENYA/viewform">Registration</a>
+
