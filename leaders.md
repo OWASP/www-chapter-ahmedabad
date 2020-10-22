@@ -13,7 +13,7 @@
 * Rushabh Makim
 * Rutwa Panagar
 
-#### Multimedia & Networking Team
+#### Socialmedia & Networking Team
 * Harsh Joshi
 * Priyam Patel
 * Vidhi Panchal
