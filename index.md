@@ -51,5 +51,5 @@ postal-code:
 16.) 31 October 2020 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-To be Announced. For more details stay tuned with us.
+We're coming on 26th December,2020 at 11:00 AM. Registration link will be soon out. For more details stay tuned with us.
 
