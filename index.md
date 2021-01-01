@@ -50,12 +50,7 @@ postal-code:
 
 16.) 31 October 2020 : Google Meet (Virtual Meet) @ 11:00 AM
 
+17.) 26th December 2020 : Google Meet (Virtual Meet) @ 11:00 AM 
+
 ## Next Meetup Information
-Hello Hackers, We're coming at 26th December 2020. Be ready for experiencing magnificent, thrilling and fascinating ride of Last OWASP AHMEDABAD CHAPTER of 2K20 with your Xmas!!!🎅🏼💻🛡️
-
-
-click on following for registration:- 
-
-<a href="https://docs.google.com/forms/d/1u_GziZi6xy9qipD6Oi0evOi84-X7V1-r--9YhOQOEyM/closedform">Registration</a>
-
-(limited seats available)
+To Be Announced. For more details stay tuned with us.
