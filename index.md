@@ -53,4 +53,4 @@ postal-code:
 17.) 26th December 2020 : Google Meet (Virtual Meet) @ 11:00 AM 
 
 ## Next Meetup Information
-To Be Announced. For more details stay tuned with us.
+Fisrt meet up of 2021 is coming on 27th February,2021. For more details about meet up stay tuned with us on our social media.
