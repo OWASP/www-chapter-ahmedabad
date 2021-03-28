@@ -52,11 +52,7 @@ postal-code:
 
 17.) 26th December 2020 : Google Meet (Virtual Meet) @ 11:00 AM 
 
+18.) 7th February,2021 : Google Meet (Virtual Meet) @ 11:00 AM
+
 ## Next Meetup Information
-Fisrt meet up of 2021 is coming on 27th February,2021 at 11:00 AM to 13:00 PM.
-<p style='text-align: justify;'>11:00 am - 11:15 am - News Bytes by Udit Chawda</p>
-<p style='text-align: justify;'>11:15 am - 12:00 pm -  Hunting headers for SSRF & evil payloads for internal assets by Aditya Shende</p>
-<p style='text-align: justify;'>12:00 pm - 12:30 pm - 2FA Bypass by Harsh Bothra</p>
-<p style='text-align: justify;'>12:30 pm - 01:00 pm - Writing reports for business impact and market strategy for bug bounties by Tabassum Tamboli</p>
-<p style='text-align: justify;'>For more details about meet up stay tuned with us on our social media.</p>
-<a href="https://docs.google.com/forms/d/1u_GziZi6xy9qipD6Oi0evOi84-X7V1-r--9YhOQOEyM/closedform" target="_blank">Registration</a>
+To Be Announced. Stay tuned with us for more details on our social media page.
