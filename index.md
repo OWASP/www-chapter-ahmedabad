@@ -52,7 +52,7 @@ postal-code:
 
 17.) 26th December 2020 : Google Meet (Virtual Meet) @ 11:00 AM 
 
-18.) 27th February,2021 : Google Meet (Virtual Meet) @ 11:00 AM
+18.) 27th February 2021 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-To Be Announced. Stay tuned with us for more details on our social media page.
+Hello everyone, We're coming on 29th May, 2021 @ 11:00 AM IST. Registrtion link will be soon out. For more details stay tuned with us.
