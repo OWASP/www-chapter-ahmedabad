@@ -55,4 +55,5 @@ postal-code:
 18.) 27th February 2021 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-Hello everyone, We're coming on 29th May, 2021 @ 11:00 AM IST. Registrtion link will be soon out. For more details stay tuned with us.
+Hello everyone, We're coming on 29th May, 2021 @ 11:00 AM IST. Registrtion link is below. For more details stay tuned with us.
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSemokxawE1wqYjYtqxZOsHBpu7FU0Ycq0smEm20z6LETsENYA/viewform">Register Here</a>
