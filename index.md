@@ -54,19 +54,9 @@ postal-code:
 
 18.) 27th February 2021 : Google Meet (Virtual Meet) @ 11:00 AM
 
+19.) 29th May 2021 : Google Meet (Virtual Meet) @ 11:00 AM
+
 ## Next Meetup Information
-Hello everyone, We're coming on 29th May, 2021 @ 11:00 AM IST. Below is the schedule of meet up.
-
-11:00 am - 11:15 am - News Bytes by Vidhi Panchal
-
-11:15 am - 11:45 am - Optimizating Threat Intelligence by Nikhil Kalsekar
-
-11:45 am - 12:15 pm - Security Misconfiguration by Rahul Badgujar and Shaunak Rao 
-
-12:15 pm - 12:45 pm - Scary Android Ghost by Vismit Rakhecha
-
-Registrtion link is below. For more details stay tuned with us.
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSemokxawE1wqYjYtqxZOsHBpu7FU0Ycq0smEm20z6LETsENYA/viewform">Register Here</a>
+We will annonce new meet up date soon. For more details stay tuned with us.
 
 
