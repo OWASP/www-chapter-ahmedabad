@@ -57,5 +57,5 @@ postal-code:
 19.) 29th May 2021 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-To be announced.
+We are coming on 28th August, 2021 on Saturday @ 11:00 AM. Registration link will be soon out. For more details stay tuned with us on our social media.
 
