@@ -56,14 +56,7 @@ postal-code:
 
 19.) 29th May 2021 : Google Meet (Virtual Meet) @ 11:00 AM
 
+20.) 28th August 2021 : Google Meet (Virtual Meet) @ 11:00 AM
+
 ## Next Meetup Information
-We are coming on 28th August, 2021 on Saturday @ 11:00 AM. 
-
-11:00 am - 11:15 am - News Bytes by Udit Chavda
-
-11:15 am - 11:45 am - Common Vulnerabilities in Forget password Functionality  by Harsh Bothra
-
-11:45 am - 12:15 pm - Need for Data Privacy by Kavani
-
-Registration link will be soon out. For more details stay tuned with us on our social media.
-
+To be Announced
