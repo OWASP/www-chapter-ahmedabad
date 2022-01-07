@@ -59,4 +59,4 @@ postal-code:
 20.) 28th August 2021 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-To be Announced
+Happy New Year OWASPians. We're coming on January 29th, 2022. For more details stay tuned with us.
