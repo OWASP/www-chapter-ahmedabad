@@ -60,9 +60,15 @@ postal-code:
 
 ## Next Meetup Information
 Happy New Year OWASPians. We're coming on January 29th, 2022. 
-#11:00 am - 11:15 am - News Bytes by Udit Chavda 
-#11:15 am - 11:45 am - TBA by Harsh Bothra 
-#11:45 am - 12:15 pm - Azure security fundamentals  by Nisarg Trivedi
-#12:15 pm - 12:45 pm - Recon Like Druk by Vismit Rakhecha
-#<a href="https://docs.google.com/forms/d/e/1FAIpQLSemokxawE1wqYjYtqxZOsHBpu7FU0Ycq0smEm20z6LETsENYA/viewform?vc=0&c=0&w=1&flr=0">Registeration link is out. </a>
-#For more details stay tuned with us.
+
+11:00 am - 11:15 am - News Bytes by Udit Chavda 
+
+11:15 am - 11:45 am - TBA by Harsh Bothra 
+
+11:45 am - 12:15 pm - Azure security fundamentals  by Nisarg Trivedi
+
+12:15 pm - 12:45 pm - Recon Like Druk by Vismit Rakhecha
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSemokxawE1wqYjYtqxZOsHBpu7FU0Ycq0smEm20z6LETsENYA/viewform?vc=0&c=0&w=1&flr=0">Registeration link is out. </a>
+
+For more details stay tuned with us.
