@@ -64,6 +64,7 @@ postal-code:
 
 ## Next Meetup Information
 We're coming on June 25th, 2022. With...
+
 11:00 am - 11:15 am - News Bytes by Sanjay
 
 11:15 am - 11:45 am - Privacy enhancing technologies by Kavani
