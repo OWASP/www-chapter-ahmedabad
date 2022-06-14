@@ -60,6 +60,13 @@ postal-code:
 
 21.) 29th January 2022 : Google Meet (Virtual Meet) @ 11:00 AM
 
+22.) 27th March 2022 : Google Meet (Virtual Meet) @ 11:00 AM
+
 ## Next Meetup Information
-Happy New Year OWASPians. We're coming on March 27th, 2022. 
-For more details stay tuned with us.
+We're coming on June 25th, 2022. With...
+11:00 am - 11:15 am - News Bytes by Sanjay
+11:15 am - 11:45 am - Privacy enhancing technologies by Kavani
+11:45 am - 12:15 pm - GIT(Devops and dev) perspective by Vivek Sinha
+12:15 pm - 12:45 pm - TBA by Vismit Rakhecha(Druk)
+
+For more details stay tuned with us of our social media platforms.
