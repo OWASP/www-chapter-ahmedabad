@@ -65,9 +65,9 @@ postal-code:
 ## Next Meetup Information
 We're coming on June 25th, 2022. With...
 
-11:00 am - 11:15 am - News Bytes by Sanjay
+11:00 am - 11:15 am - News Bytes by Udit Chavda
 
-11:15 am - 11:45 am - Privacy enhancing technologies by Kavani
+11:15 am - 11:45 am - Privacy enhancing technologies by Kavani Parikh
 
 11:45 am - 12:15 pm - GIT(Devops and dev) perspective by Vivek Sinha
 
