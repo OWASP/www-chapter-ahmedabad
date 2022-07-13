@@ -7,9 +7,8 @@
 * Udit Chavda
 
 ### Volunteer Team
-* Harshil Sharma
+* Deevya Rakhecha
 * Kishan Mewada
 * Prashant Purani
-* Rushabh Makim
 * Rutwa Panagar
 * Vidhi Panchal
