@@ -65,4 +65,14 @@ postal-code:
 23.) 25th June 2022 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-TBA
+We are coming on 27th August, 2022 @ 11:00 AM offline. 
+
+Venue : A4, Shivalik Business Center,
+Bh. Rajpath Club,
+Bodakdev,
+Ahmedabad 380015, Gujarat, India
+
+For more information stay tuned with us on our social media pages.
+
+### Supporters
+The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Pvt Ltd
