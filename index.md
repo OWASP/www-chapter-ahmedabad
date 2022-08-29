@@ -67,7 +67,7 @@ postal-code:
 23.) 25th June 2022 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-We are coming on 3rd September, 2022 @ 11:00 AM offline. 
+We are coming on <mark>3rd September, 2022 @ 11:00 AM offline</mark>. 
 
 Venue : A4, Shivalik Business Center,
 Bh. Rajpath Club,
@@ -78,4 +78,4 @@ For more information stay tuned with us on our social media pages.
 
 ## Supporters
 The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Pvt Ltd
-<img width="508" alt="ASITE" src="https://user-images.githubusercontent.com/40335264/187211551-4d97df78-57c2-4dd6-9224-a18723197548.png">
+<a href="https://www.asite.com/"> <img width="508" alt="ASITE" src="https://user-images.githubusercontent.com/40335264/187211551-4d97df78-57c2-4dd6-9224-a18723197548.png"> </a>
