@@ -10,6 +10,8 @@ country: India
 postal-code: 
 
 ---
+![Landscape](https://user-images.githubusercontent.com/40335264/187212509-d2704509-07fe-4942-97cd-07f96a1c778a.jpg)
+
 ### OWASP Ahmedabad
 <p style='text-align: justify;'>OWASP Ahmedabd Chapter was founded in the mid of 2019 by a group of security enthusiasts to share the knowledge for cyber security, and spread cyber awareness, free of cost.</p>
 
@@ -76,3 +78,4 @@ For more information stay tuned with us on our social media pages.
 
 ## Supporters
 The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Pvt Ltd
+<img width="508" alt="ASITE" src="https://user-images.githubusercontent.com/40335264/187211551-4d97df78-57c2-4dd6-9224-a18723197548.png">
