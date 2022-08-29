@@ -79,5 +79,3 @@ For more information stay tuned with us on our social media pages.
 ## Supporters
 The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Pvt Ltd
 <img width="508" alt="ASITE" src="https://user-images.githubusercontent.com/40335264/187211551-4d97df78-57c2-4dd6-9224-a18723197548.png">
-
-<img src="https://www.asite.com/hubfs/AsiteLogo.svg" alt="AsiteLogo">
