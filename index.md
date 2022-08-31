@@ -77,5 +77,5 @@ Ahmedabad 380015, Gujarat, India
 For more information stay tuned with us on our social media pages.
 
 ## Supporters
-The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Pvt Ltd
+The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Ltd
 <a href="https://www.asite.com/"> <img width="508" alt="ASITE" src="https://user-images.githubusercontent.com/40335264/187211551-4d97df78-57c2-4dd6-9224-a18723197548.png"> </a>
