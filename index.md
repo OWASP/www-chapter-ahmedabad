@@ -67,7 +67,7 @@ postal-code:
 23.) 25th June 2022 : Google Meet (Virtual Meet) @ 11:00 AM
 
 ## Next Meetup Information
-We are coming on <mark>3rd September, 2022 @ 11:00 AM offline</mark>. 
+<mark>3rd September, 2022 @ 11:00 AM offline</mark>
 
 Venue : A4, Shivalik Business Center,
 Bh. Rajpath Club,
