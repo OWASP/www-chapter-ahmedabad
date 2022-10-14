@@ -66,7 +66,7 @@ postal-code:
 
 23.) 25th June 2022 : Google Meet (Virtual Meet) @ 11:00 AM
 
-23.) 3rd September 2022 : Asite @ 11:00 AM
+24.) 3rd September 2022 : Asite @ 11:00 AM
 
 ## Next Meetup Information
 <mark>29th October, 2022 @ 11:00 AM offline</mark>
