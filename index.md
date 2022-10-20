@@ -69,7 +69,7 @@ postal-code:
 24.) 3rd September 2022 : Asite @ 11:00 AM
 
 ## Next Meetup Information
-<mark>29th October, 2022 @ 11:00 AM offline</mark>
+<mark>19th November, 2022 @ 11:00 AM offline</mark>
 
 Venue : A4, Shivalik Business Center,
 Bh. Rajpath Club,
