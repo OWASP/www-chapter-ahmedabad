@@ -68,7 +68,7 @@ postal-code:
 
 24.) 3rd September 2022 : Asite @ 11:00 AM
 
-25.) 19th November, 2022 : Asite @ 11:00 AK
+25.) 19th November, 2022 : Asite @ 11:00 AM
 
 ## Next Meetup Information
 <mark>19th February, 2023 @ 11:00 AM offline</mark>
