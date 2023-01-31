@@ -71,7 +71,7 @@ postal-code:
 25.) 19th November, 2022 : Asite @ 11:00 AM
 
 ## Next Meetup Information
-<mark>19th February, 2023 @ 11:00 AM offline</mark>
+<mark>18th February, 2023 @ 11:00 AM offline</mark>
 
 Venue : A4, Shivalik Business Center,
 Bh. Rajpath Club,
