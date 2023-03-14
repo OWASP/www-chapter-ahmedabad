@@ -12,4 +12,3 @@
 * Prashant Purani
 * Rutwa Panagar
 * Vidhi Panchal
-* 
