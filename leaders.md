@@ -6,9 +6,3 @@
 * Vivek Sinha
 * Udit Chavda
 
-### Volunteer Team
-* Deevya Rakhecha
-* Kishan Mewada
-* Prashant Purani
-* Rutwa Panagar
-* Vidhi Panchal
