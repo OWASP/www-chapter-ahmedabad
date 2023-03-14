@@ -10,7 +10,7 @@ country: India
 postal-code: 
 
 ---
-<img src="https://www.google.com.sg/search?q=owasp&tbm=isch&source=iu&ictx=1&vet=1&fir=rk4yaoPlAokcSM%252CTeJbyGAKVX4iXM%252C%252Fm%252F06nr9c&usg=AI4_-kSymEwcLqAwdF2X5JIm3ApEbBgXvQ&sa=X&ved=2ahUKEwivqd7Y7Nr9AhXjSGwGHWK5ASgQ_B16BAhZEAI#imgrc=rk4yaoPlAokcSM" alt="OWASPLogo">
+<img src="https://github.com/OWASP/www-chapter-ahmedabad/blob/master/IMG-20230313-WA0010.jpg" alt="OWASPLogo">
 
 ### OWASP Ahmedabad
 <p style='text-align: justify;'>OWASP Ahmedabd Chapter was founded in the mid of 2019 by a group of security enthusiasts to share the knowledge for cyber security, and spread cyber awareness, free of cost.</p>
