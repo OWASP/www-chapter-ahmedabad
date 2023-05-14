@@ -70,15 +70,10 @@ postal-code:
 
 25.) 19th November, 2022 : Asite @ 11:00 AM
 
+26.) 18th February, 2023 : Asite @ 11:00 AM
+
 ## Next Meetup Information
-<mark>18th February, 2023 @ 11:00 AM offline</mark>
-
-Venue : A4, Shivalik Business Center,
-Bh. Rajpath Club,
-Bodakdev,
-Ahmedabad 380015, Gujarat, India
-
-For more information stay tuned with us on our social media pages.
+TBA. For more information stay tuned with us on our social media pages.
 
 ## Supporters
 The organisation supporting the OWASP Ahmedabad chapter : Asite Solutions Ltd
