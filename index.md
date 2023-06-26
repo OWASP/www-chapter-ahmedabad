@@ -73,7 +73,7 @@ postal-code:
 26.) 18th February, 2023 : Asite @ 11:00 AM
 
 ## Next Meetup Information
-<mark>8th July, 2023 @ 11:00 AM offline</mark>.
+<mark>1st July, 2023 @ 11:00 AM offline</mark>.
 
 Venue : A4, Shivalik Business Center, Bh. Rajpath Club, Bodakdev, Ahmedabad 380015, Gujarat, India
 
