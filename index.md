@@ -66,14 +66,16 @@ postal-code:
 
 23.) 25th June 2022 : Google Meet (Virtual Meet) @ 11:00 AM
 
-24.) 3rd September 2022 : Asite @ 11:00 AM
+24.) 03rd September 2022 : Asite @ 11:00 AM
 
 25.) 19th November, 2022 : Asite @ 11:00 AM
 
 26.) 18th February, 2023 : Asite @ 11:00 AM
 
+26.) 08th February, 2023 : Asite @ 11:00 AM
+
 ## Next Meetup Information
-<mark>8th July, 2023 @ 11:00 AM offline</mark>.
+<mark>30th September, 2023 @ 11:00 AM offline</mark>.
 
 Venue : A4, Shivalik Business Center, Bh. Rajpath Club, Bodakdev, Ahmedabad 380015, Gujarat, India
 
