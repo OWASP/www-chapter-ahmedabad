@@ -72,7 +72,7 @@ postal-code:
 
 26.) 18th February, 2023 : Asite @ 11:00 AM
 
-26.) 08th February, 2023 : Asite @ 11:00 AM
+26.) 08th July, 2023 : Asite @ 11:00 AM
 
 ## Next Meetup Information
 <mark>30th September, 2023 @ 11:00 AM offline</mark>.
