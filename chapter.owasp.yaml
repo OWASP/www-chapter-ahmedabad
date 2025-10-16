@@ -1,0 +1,21 @@
+leaders:
+  - name: Vishal Purani
+    email: Vishal.purani@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Gujarat
+  city: Ahmedabad
+  latitude: 23.0215374
+  longitude: 72.5800568
+meetup_group: OWASP-Ahmedabad-Chapter
+name: OWASP Ahmedabad
+repositories:
+  - name: www-chapter-ahmedabad
+    url: https://github.com/OWASP/www-chapter-ahmedabad
+    description: OWASP Foundation Web Repository
+tags:
+  - tab_example
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-ahmedabad
